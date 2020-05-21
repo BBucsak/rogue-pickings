@@ -31,6 +31,8 @@ h4 {
 h1 {
 	font-size: 1.875em;
 	border-bottom: 3px solid #77a466;
+	width: 100%;
+	text-align: center;
 }
 h2 {
     font-size: 1.500em;
@@ -56,6 +58,7 @@ header {
 	flex-flow: column wrap;
 	justify-content: center;
 	align-items: center;
+	width: 100%;
 }
 
 header h1 {
@@ -79,6 +82,7 @@ header nav ul li {
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: .875em;
+	line-height: 35px;
 	padding: 0 10px;
 	display: flex;
 	flex-flow: column wrap;
@@ -177,6 +181,7 @@ footer {
 	border-top: 3px solid #eee;
 	margin: 0 auto;
 	text-align: center;
+	width: 100%;
 }
 footer span {
 	font-family: 'Galada', cursive;
