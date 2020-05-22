@@ -139,7 +139,7 @@ header nav ul li a{
 }
 
 .section-one h4 {
-	padding: 10px 0;
+
 }
 
 .section-two {
@@ -148,15 +148,15 @@ header nav ul li a{
 
 .section-two h4,
 .section-three h4 {
-	padding: 10px 30px;
+	
 }
 
 .menu {
 	list-style: none;
-	padding: 0;
+	
 }
 .menu li {
-	padding: 10px 0;
+
 	color:#77a466;
 }
 
